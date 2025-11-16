@@ -126,7 +126,7 @@ export const experiences = [
     {
         title: "Digital Lead",
         company_name: "i&M Bank",
-        icon: tesla,
+        icon: m,
         iconBg: "#fbc3bc",
         date: "Jan 2025 - todate",
         points: [
