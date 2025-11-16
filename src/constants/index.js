@@ -113,7 +113,7 @@ export const experiences = [
     {
         title: "React.js Developer",
         company_name: "Locsafe",
-        icon: starbucks,
+     
         iconBg: "#accbe1",
         date: "Aug 2024 - Dec  2024",
         points: [
@@ -126,7 +126,7 @@ export const experiences = [
     {
         title: "Digital Lead",
         company_name: "i&M Bank",
-        icon: m,
+        icon: tesla,
         iconBg: "#fbc3bc",
         date: "Jan 2025 - todate",
         points: [
