@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { meta, shopify, starbucks, tesla, iandm } from "../assets/images";
 import {
     car,
     contact,
@@ -23,7 +23,8 @@ import {
     summiz,
     tailwindcss,
     threads,
-    typescript
+    typescript,
+    python,
 } from "../assets/icons";
 
 export const skills = [
@@ -113,6 +114,7 @@ export const experiences = [
     {
         title: "React.js Developer",
         company_name: "Locsafe",
+
      
         iconBg: "#accbe1",
         date: "Aug 2024 - Dec  2024",
@@ -126,6 +128,7 @@ export const experiences = [
     {
         title: "Digital Lead",
         company_name: "i&M Bank",
+        icon: iandm,
         
         iconBg: "#fbc3bc",
         date: "Jan 2025 - todate",
