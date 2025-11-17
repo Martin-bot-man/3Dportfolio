@@ -26,7 +26,7 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
-import python from
+import python from './python.svg'   
 
 export {
     css,
@@ -57,5 +57,5 @@ export {
     contact,
     soundon,
     soundoff,
-    python
+    python,
 }
