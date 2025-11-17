@@ -80,7 +80,7 @@ export const skills = [
     },
     {
         imageUrl: python,
-        name: "Python",
+        name: "python",
         type: "Backend",
     },
     {
