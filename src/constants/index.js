@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla, iandm } from "../assets/images";
+import { meta, shopify, starbucks, tesla, iandm, locsafe } from "../assets/images";
 import {
     car,
     contact,
@@ -117,6 +117,7 @@ export const experiences = [
 
      
         iconBg: "#accbe1",
+        icon: locsafe,
         date: "Aug 2024 - Dec  2024",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",

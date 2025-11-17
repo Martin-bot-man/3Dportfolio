@@ -5,6 +5,7 @@ import starbucks from './starbucks.png'
 import tesla from './tesla.png'
 import logo from './logo.svg'
 import iandm from './iandm.png'
+import locsafe from './locsafe.jpeg'
 
 export {
     hero,
@@ -13,5 +14,6 @@ export {
     starbucks,
     tesla,
     iandm,
-    logo
+    logo,
+    locsafe,
 }
